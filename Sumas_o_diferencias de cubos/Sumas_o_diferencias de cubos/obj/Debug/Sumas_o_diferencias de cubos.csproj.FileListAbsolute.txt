@@ -1,0 +1,8 @@
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\bin\Debug\Sumas_o_diferencias de cubos.exe.config
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\bin\Debug\Sumas_o_diferencias de cubos.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\bin\Debug\Sumas_o_diferencias de cubos.pdb
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\obj\Debug\Sumas_o_diferencias de cubos.csproj.AssemblyReference.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\obj\Debug\Sumas_o_diferencias de cubos.csproj.SuggestedBindingRedirects.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\obj\Debug\Sumas_o_diferencias de cubos.csproj.CoreCompileInputs.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\obj\Debug\Sumas_o_diferencias de cubos.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Sumas_o_diferencias de cubos\Sumas_o_diferencias de cubos\obj\Debug\Sumas_o_diferencias de cubos.pdb

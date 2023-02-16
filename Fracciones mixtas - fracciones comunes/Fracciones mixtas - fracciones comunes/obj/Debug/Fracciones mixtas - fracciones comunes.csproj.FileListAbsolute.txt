@@ -1,0 +1,8 @@
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\bin\Debug\Fracciones mixtas - fracciones comunes.exe.config
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\bin\Debug\Fracciones mixtas - fracciones comunes.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\bin\Debug\Fracciones mixtas - fracciones comunes.pdb
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\obj\Debug\Fracciones mixtas - fracciones comunes.csproj.AssemblyReference.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\obj\Debug\Fracciones mixtas - fracciones comunes.csproj.SuggestedBindingRedirects.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\obj\Debug\Fracciones mixtas - fracciones comunes.csproj.CoreCompileInputs.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\obj\Debug\Fracciones mixtas - fracciones comunes.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes\obj\Debug\Fracciones mixtas - fracciones comunes.pdb

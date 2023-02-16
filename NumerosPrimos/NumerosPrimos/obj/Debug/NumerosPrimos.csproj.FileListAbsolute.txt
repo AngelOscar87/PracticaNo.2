@@ -1,0 +1,8 @@
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.AssemblyReference.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.SuggestedBindingRedirects.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb

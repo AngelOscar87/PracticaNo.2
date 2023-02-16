@@ -1,0 +1,8 @@
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\bin\Debug\CalculadoraSemanas.exe.config
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\bin\Debug\CalculadoraSemanas.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\bin\Debug\CalculadoraSemanas.pdb
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\obj\Debug\CalculadoraSemanas.csproj.AssemblyReference.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\obj\Debug\CalculadoraSemanas.csproj.SuggestedBindingRedirects.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\obj\Debug\CalculadoraSemanas.csproj.CoreCompileInputs.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\obj\Debug\CalculadoraSemanas.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\CalculadoraSemanas\CalculadoraSemanas\obj\Debug\CalculadoraSemanas.pdb

@@ -1,0 +1,8 @@
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\bin\Debug\InvertirSentidosDeLasPalabras.exe.config
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\bin\Debug\InvertirSentidosDeLasPalabras.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\bin\Debug\InvertirSentidosDeLasPalabras.pdb
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\obj\Debug\InvertirSentidosDeLasPalabras.csproj.AssemblyReference.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\obj\Debug\InvertirSentidosDeLasPalabras.csproj.SuggestedBindingRedirects.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\obj\Debug\InvertirSentidosDeLasPalabras.csproj.CoreCompileInputs.cache
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\obj\Debug\InvertirSentidosDeLasPalabras.exe
+H:\Mi unidad\INF-159-01\Practicas\Practica 2\InvertirSentidosDeLasPalabras\InvertirSentidosDeLasPalabras\obj\Debug\InvertirSentidosDeLasPalabras.pdb

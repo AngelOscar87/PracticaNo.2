@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fracciones mixtas - fracciones comunes", "Fracciones mixtas - fracciones comunes\Fracciones mixtas - fracciones comunes.csproj", "{3677DCFE-EA4D-4800-BAE3-006E3B084715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3677DCFE-EA4D-4800-BAE3-006E3B084715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3677DCFE-EA4D-4800-BAE3-006E3B084715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3677DCFE-EA4D-4800-BAE3-006E3B084715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3677DCFE-EA4D-4800-BAE3-006E3B084715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683F156F-8688-4E7A-8F09-7B1520A33558}
+	EndGlobalSection
+EndGlobal
